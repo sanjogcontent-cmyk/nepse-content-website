@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-05-13T15:47:50+00:00",
+  "items": [
+    {
+      "id": "daily-2026-05-13",
+      "type": "daily",
+      "business_date": "2026-05-13",
+      "title": "NEPSE Daily Order-Flow Summary — 2026-05-13",
+      "url": "/daily/2026-05-13",
+      "published": false,
+      "approved": false,
+      "featured_symbol": "SYPNL",
+      "sector": "Manufacturing And Processing",
+      "summary": "Sell-aggressive pressure shaped the market, with Hydro Power carrying the largest order-flow footprint and SYPNL selected for video proof."
+    },
+    {
+      "id": "weekly-2026-W20",
+      "type": "weekly",
+      "week_id": "2026-W20",
+      "title": "NEPSE Weekly Order-Flow Summary — 2026-W20",
+      "url": "/weekly/2026-W20",
+      "published": false,
+      "summary": "Weekly summary from 2026-05-13 to 2026-05-13"
+    }
+  ],
+  "count": 2
+}

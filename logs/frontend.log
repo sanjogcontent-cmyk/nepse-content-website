@@ -1,0 +1,17 @@
+
+up to date, audited 64 packages in 592ms
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+  VITE v5.4.21  ready in 79 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.64:5173/

@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-05-13T15:47:50+00:00",
+  "items": [
+    {
+      "week_id": "2026-W20",
+      "start_date": "2026-05-13",
+      "end_date": "2026-05-13",
+      "url": "/weekly/2026-W20",
+      "published": false,
+      "trading_days": 1,
+      "top_sector": "Hydro Power",
+      "top_featured_stock": "SYPNL",
+      "buckets": 23856,
+      "matched_buckets": 23856,
+      "pending_buckets": 0,
+      "trade_qty": 5410645,
+      "buy_aggr_qty": 2174017,
+      "sell_aggr_qty": 3225562,
+      "ambig_qty": 11066,
+      "net_aggr_qty": -1051545,
+      "gap_count": 0,
+      "wipe_count": 24,
+      "upper_lock_count": 5,
+      "lower_lock_count": 52,
+      "trade_amt_rs": 2799266795.21,
+      "buy_aggr_amt_rs": 1157332629.62,
+      "sell_aggr_amt_rs": 1634535238.68,
+      "ambig_amt_rs": 7398926.91,
+      "net_aggr_amt_rs": -477202609.06,
+      "confidence_pct": 99.46,
+      "explainability_pct": 99.59,
+      "bias": "sell",
+      "evidence_label": "High Evidence",
+      "daily_urls": [
+        "/daily/2026-05-13"
+      ]
+    }
+  ],
+  "count": 1
+}

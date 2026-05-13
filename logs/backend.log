@@ -1,0 +1,28 @@
+Requirement already satisfied: pip in ./.venv/lib/python3.14/site-packages (26.1.1)
+Requirement already satisfied: fastapi<0.136,>=0.135 in ./.venv/lib/python3.14/site-packages (from -r requirements.txt (line 1)) (0.135.4)
+Requirement already satisfied: uvicorn<0.42,>=0.41 in ./.venv/lib/python3.14/site-packages (from uvicorn[standard]<0.42,>=0.41->-r requirements.txt (line 2)) (0.41.0)
+Requirement already satisfied: pydantic<2.13,>=2.12 in ./.venv/lib/python3.14/site-packages (from -r requirements.txt (line 3)) (2.12.5)
+Requirement already satisfied: pydantic-settings<2.14,>=2.13 in ./.venv/lib/python3.14/site-packages (from -r requirements.txt (line 4)) (2.13.1)
+Requirement already satisfied: starlette>=0.46.0 in ./.venv/lib/python3.14/site-packages (from fastapi<0.136,>=0.135->-r requirements.txt (line 1)) (1.0.0)
+Requirement already satisfied: typing-extensions>=4.8.0 in ./.venv/lib/python3.14/site-packages (from fastapi<0.136,>=0.135->-r requirements.txt (line 1)) (4.15.0)
+Requirement already satisfied: typing-inspection>=0.4.2 in ./.venv/lib/python3.14/site-packages (from fastapi<0.136,>=0.135->-r requirements.txt (line 1)) (0.4.2)
+Requirement already satisfied: annotated-doc>=0.0.2 in ./.venv/lib/python3.14/site-packages (from fastapi<0.136,>=0.135->-r requirements.txt (line 1)) (0.0.4)
+Requirement already satisfied: click>=7.0 in ./.venv/lib/python3.14/site-packages (from uvicorn<0.42,>=0.41->uvicorn[standard]<0.42,>=0.41->-r requirements.txt (line 2)) (8.3.3)
+Requirement already satisfied: h11>=0.8 in ./.venv/lib/python3.14/site-packages (from uvicorn<0.42,>=0.41->uvicorn[standard]<0.42,>=0.41->-r requirements.txt (line 2)) (0.16.0)
+Requirement already satisfied: annotated-types>=0.6.0 in ./.venv/lib/python3.14/site-packages (from pydantic<2.13,>=2.12->-r requirements.txt (line 3)) (0.7.0)
+Requirement already satisfied: pydantic-core==2.41.5 in ./.venv/lib/python3.14/site-packages (from pydantic<2.13,>=2.12->-r requirements.txt (line 3)) (2.41.5)
+Requirement already satisfied: python-dotenv>=0.21.0 in ./.venv/lib/python3.14/site-packages (from pydantic-settings<2.14,>=2.13->-r requirements.txt (line 4)) (1.2.2)
+Requirement already satisfied: httptools>=0.6.3 in ./.venv/lib/python3.14/site-packages (from uvicorn[standard]<0.42,>=0.41->-r requirements.txt (line 2)) (0.7.1)
+Requirement already satisfied: pyyaml>=5.1 in ./.venv/lib/python3.14/site-packages (from uvicorn[standard]<0.42,>=0.41->-r requirements.txt (line 2)) (6.0.3)
+Requirement already satisfied: uvloop>=0.15.1 in ./.venv/lib/python3.14/site-packages (from uvicorn[standard]<0.42,>=0.41->-r requirements.txt (line 2)) (0.22.1)
+Requirement already satisfied: watchfiles>=0.20 in ./.venv/lib/python3.14/site-packages (from uvicorn[standard]<0.42,>=0.41->-r requirements.txt (line 2)) (1.1.1)
+Requirement already satisfied: websockets>=10.4 in ./.venv/lib/python3.14/site-packages (from uvicorn[standard]<0.42,>=0.41->-r requirements.txt (line 2)) (16.0)
+Requirement already satisfied: anyio<5,>=3.6.2 in ./.venv/lib/python3.14/site-packages (from starlette>=0.46.0->fastapi<0.136,>=0.135->-r requirements.txt (line 1)) (4.13.0)
+Requirement already satisfied: idna>=2.8 in ./.venv/lib/python3.14/site-packages (from anyio<5,>=3.6.2->starlette>=0.46.0->fastapi<0.136,>=0.135->-r requirements.txt (line 1)) (3.15)
+INFO:     Will watch for changes in these directories: ['/Users/sanjoggautam/Downloads/nepse_mta_content_phase14q_aggressor_donut_readability_fix/backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [50055] using WatchFiles
+INFO:     Started server process [50078]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:52821 - "GET /api/health HTTP/1.1" 200 OK

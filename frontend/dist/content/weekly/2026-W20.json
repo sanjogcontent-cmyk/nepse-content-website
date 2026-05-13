@@ -1,0 +1,522 @@
+{
+  "type": "weekly",
+  "week_id": "2026-W20",
+  "start_date": "2026-05-13",
+  "end_date": "2026-05-13",
+  "url": "/weekly/2026-W20",
+  "title": "NEPSE Weekly Order-Flow Summary — 2026-W20",
+  "published": false,
+  "trading_days": 1,
+  "summary": {
+    "buckets": 23856,
+    "matched_buckets": 23856,
+    "pending_buckets": 0,
+    "trade_qty": 5410645,
+    "buy_aggr_qty": 2174017,
+    "sell_aggr_qty": 3225562,
+    "ambig_qty": 11066,
+    "net_aggr_qty": -1051545,
+    "gap_count": 0,
+    "wipe_count": 24,
+    "upper_lock_count": 5,
+    "lower_lock_count": 52,
+    "trade_amt_rs": 2799266795.21,
+    "buy_aggr_amt_rs": 1157332629.62,
+    "sell_aggr_amt_rs": 1634535238.68,
+    "ambig_amt_rs": 7398926.91,
+    "net_aggr_amt_rs": -477202609.06,
+    "confidence_pct": 99.46,
+    "explainability_pct": 99.59,
+    "bias": "sell",
+    "evidence_label": "High Evidence"
+  },
+  "top_sector": "Hydro Power",
+  "top_featured_stock": "SYPNL",
+  "daily_entries": [
+    {
+      "type": "daily",
+      "business_date": "2026-05-13",
+      "title": "NEPSE Daily Order-Flow Summary — 2026-05-13",
+      "summary": "Sell-aggressive pressure shaped the market, with Hydro Power carrying the largest order-flow footprint and SYPNL selected for video proof.",
+      "url": "/daily/2026-05-13",
+      "published": false,
+      "status": "draft",
+      "market_bias": "Sell-aggressive",
+      "evidence_label": "High Evidence",
+      "buckets": 23856,
+      "matched_buckets": 23856,
+      "pending_buckets": 0,
+      "trade_qty": 5410645,
+      "trade_amt_rs": 2799266795.21,
+      "buy_aggr_qty": 2174017,
+      "sell_aggr_qty": 3225562,
+      "ambig_qty": 11066,
+      "net_aggr_qty": -1051545,
+      "buy_aggr_amt_rs": 1157332629.62,
+      "sell_aggr_amt_rs": 1634535238.68,
+      "ambig_amt_rs": 7398926.91,
+      "net_aggr_amt_rs": -477202609.06,
+      "confidence_pct": 99.46,
+      "explainability_pct": 99.59,
+      "gap_count": 0,
+      "wipe_count": 24,
+      "upper_lock_count": 5,
+      "lower_lock_count": 52,
+      "bias": "Sell-aggressive",
+      "top_sector": "Hydro Power",
+      "featured_symbol": "SYPNL",
+      "featured_company": "SY Panel Nepal Limited",
+      "featured_sector": "Manufacturing And Processing",
+      "video_status": "coming_soon",
+      "youtube_url": "",
+      "canonical_url": "/daily/2026-05-13",
+      "source_json": "/content/daily/2026-05-13.json"
+    }
+  ],
+  "sector_summary": [
+    {
+      "sector_name": "Hydro Power",
+      "sector_slug": "hydro-power",
+      "days_active": 1,
+      "summary": {
+        "buckets": 10560,
+        "matched_buckets": 10560,
+        "pending_buckets": 0,
+        "trade_qty": 2975025,
+        "buy_aggr_qty": 1207328,
+        "sell_aggr_qty": 1762639,
+        "ambig_qty": 5058,
+        "net_aggr_qty": -555311,
+        "gap_count": 0,
+        "wipe_count": 11,
+        "upper_lock_count": 5,
+        "lower_lock_count": 0,
+        "trade_amt_rs": 1158609505.5,
+        "buy_aggr_amt_rs": 475505624.16,
+        "sell_aggr_amt_rs": 680686270.27,
+        "ambig_amt_rs": 2417611.07,
+        "net_aggr_amt_rs": -205180646.11,
+        "confidence_pct": 99.46,
+        "explainability_pct": 99.6,
+        "bias": "sell",
+        "evidence_label": "High Evidence"
+      }
+    },
+    {
+      "sector_name": "Manufacturing And Processing",
+      "sector_slug": "manufacturing-and-processing",
+      "days_active": 1,
+      "summary": {
+        "buckets": 3680,
+        "matched_buckets": 3680,
+        "pending_buckets": 0,
+        "trade_qty": 479677,
+        "buy_aggr_qty": 236954,
+        "sell_aggr_qty": 240188,
+        "ambig_qty": 2535,
+        "net_aggr_qty": -3234,
+        "gap_count": 0,
+        "wipe_count": 0,
+        "upper_lock_count": 0,
+        "lower_lock_count": 0,
+        "trade_amt_rs": 587683106.5,
+        "buy_aggr_amt_rs": 306625690.5,
+        "sell_aggr_amt_rs": 278081598.2,
+        "ambig_amt_rs": 2975817.8,
+        "net_aggr_amt_rs": 28544092.3,
+        "confidence_pct": 99.1,
+        "explainability_pct": 99.35,
+        "bias": "sell",
+        "evidence_label": "High Evidence"
+      }
+    },
+    {
+      "sector_name": "Commercial Banks",
+      "sector_slug": "commercial-banks",
+      "days_active": 1,
+      "summary": {
+        "buckets": 2324,
+        "matched_buckets": 2324,
+        "pending_buckets": 0,
+        "trade_qty": 869035,
+        "buy_aggr_qty": 332616,
+        "sell_aggr_qty": 535899,
+        "ambig_qty": 520,
+        "net_aggr_qty": -203283,
+        "gap_count": 0,
+        "wipe_count": 0,
+        "upper_lock_count": 0,
+        "lower_lock_count": 0,
+        "trade_amt_rs": 245737254.21,
+        "buy_aggr_amt_rs": 91668973.32,
+        "sell_aggr_amt_rs": 153939485.89,
+        "ambig_amt_rs": 128795.0,
+        "net_aggr_amt_rs": -62270512.57,
+        "confidence_pct": 99.56,
+        "explainability_pct": 99.63,
+        "bias": "sell",
+        "evidence_label": "High Evidence"
+      }
+    },
+    {
+      "sector_name": "Others",
+      "sector_slug": "others",
+      "days_active": 1,
+      "summary": {
+        "buckets": 1099,
+        "matched_buckets": 1099,
+        "pending_buckets": 0,
+        "trade_qty": 136726,
+        "buy_aggr_qty": 44053,
+        "sell_aggr_qty": 92579,
+        "ambig_qty": 94,
+        "net_aggr_qty": -48526,
+        "gap_count": 0,
+        "wipe_count": 1,
+        "upper_lock_count": 0,
+        "lower_lock_count": 4,
+        "trade_amt_rs": 141186366.6,
+        "buy_aggr_amt_rs": 40661765.94,
+        "sell_aggr_amt_rs": 100446560.66,
+        "ambig_amt_rs": 78040.0,
+        "net_aggr_amt_rs": -59784794.72,
+        "confidence_pct": 99.62,
+        "explainability_pct": 99.73,
+        "bias": "sell",
+        "evidence_label": "High Evidence"
+      }
+    },
+    {
+      "sector_name": "Microfinance",
+      "sector_slug": "microfinance",
+      "days_active": 1,
+      "summary": {
+        "buckets": 1248,
+        "matched_buckets": 1248,
+        "pending_buckets": 0,
+        "trade_qty": 130396,
+        "buy_aggr_qty": 41566,
+        "sell_aggr_qty": 88353,
+        "ambig_qty": 477,
+        "net_aggr_qty": -46787,
+        "gap_count": 0,
+        "wipe_count": 10,
+        "upper_lock_count": 0,
+        "lower_lock_count": 48,
+        "trade_amt_rs": 133611942.6,
+        "buy_aggr_amt_rs": 43968128.8,
+        "sell_aggr_amt_rs": 89235149.8,
+        "ambig_amt_rs": 408664.0,
+        "net_aggr_amt_rs": -45267021.0,
+        "confidence_pct": 99.2,
+        "explainability_pct": 99.2,
+        "bias": "sell",
+        "evidence_label": "High Evidence"
+      }
+    },
+    {
+      "sector_name": "Investment",
+      "sector_slug": "investment",
+      "days_active": 1,
+      "summary": {
+        "buckets": 769,
+        "matched_buckets": 769,
+        "pending_buckets": 0,
+        "trade_qty": 201623,
+        "buy_aggr_qty": 72725,
+        "sell_aggr_qty": 127898,
+        "ambig_qty": 1000,
+        "net_aggr_qty": -55173,
+        "gap_count": 0,
+        "wipe_count": 0,
+        "upper_lock_count": 0,
+        "lower_lock_count": 0,
+        "trade_amt_rs": 125228347.5,
+        "buy_aggr_amt_rs": 37452115.35,
+        "sell_aggr_amt_rs": 87506232.15,
+        "ambig_amt_rs": 270000.0,
+        "net_aggr_amt_rs": -50054116.8,
+        "confidence_pct": 99.85,
+        "explainability_pct": 99.87,
+        "bias": "sell",
+        "evidence_label": "High Evidence"
+      }
+    },
+    {
+      "sector_name": "Development Banks",
+      "sector_slug": "development-banks",
+      "days_active": 1,
+      "summary": {
+        "buckets": 928,
+        "matched_buckets": 928,
+        "pending_buckets": 0,
+        "trade_qty": 189271,
+        "buy_aggr_qty": 77375,
+        "sell_aggr_qty": 111896,
+        "ambig_qty": 0,
+        "net_aggr_qty": -34521,
+        "gap_count": 0,
+        "wipe_count": 0,
+        "upper_lock_count": 0,
+        "lower_lock_count": 0,
+        "trade_amt_rs": 121945582.8,
+        "buy_aggr_amt_rs": 47526414.18,
+        "sell_aggr_amt_rs": 74419168.62,
+        "ambig_amt_rs": 0.0,
+        "net_aggr_amt_rs": -26892754.44,
+        "confidence_pct": 99.98,
+        "explainability_pct": 100.0,
+        "bias": "sell",
+        "evidence_label": "High Evidence"
+      }
+    },
+    {
+      "sector_name": "Hotels And Tourism",
+      "sector_slug": "hotels-and-tourism",
+      "days_active": 1,
+      "summary": {
+        "buckets": 1257,
+        "matched_buckets": 1257,
+        "pending_buckets": 0,
+        "trade_qty": 100728,
+        "buy_aggr_qty": 31703,
+        "sell_aggr_qty": 68405,
+        "ambig_qty": 620,
+        "net_aggr_qty": -36702,
+        "gap_count": 0,
+        "wipe_count": 0,
+        "upper_lock_count": 0,
+        "lower_lock_count": 0,
+        "trade_amt_rs": 79086995.4,
+        "buy_aggr_amt_rs": 25575326.38,
+        "sell_aggr_amt_rs": 52924744.53,
+        "ambig_amt_rs": 586924.48,
+        "net_aggr_amt_rs": -27349418.15,
+        "confidence_pct": 99.34,
+        "explainability_pct": 99.61,
+        "bias": "sell",
+        "evidence_label": "High Evidence"
+      }
+    },
+    {
+      "sector_name": "Finance",
+      "sector_slug": "finance",
+      "days_active": 1,
+      "summary": {
+        "buckets": 511,
+        "matched_buckets": 511,
+        "pending_buckets": 0,
+        "trade_qty": 131233,
+        "buy_aggr_qty": 65669,
+        "sell_aggr_qty": 65554,
+        "ambig_qty": 10,
+        "net_aggr_qty": 115,
+        "gap_count": 0,
+        "wipe_count": 0,
+        "upper_lock_count": 0,
+        "lower_lock_count": 0,
+        "trade_amt_rs": 78906672.0,
+        "buy_aggr_amt_rs": 41790226.0,
+        "sell_aggr_amt_rs": 37108486.0,
+        "ambig_amt_rs": 7960.0,
+        "net_aggr_amt_rs": 4681740.0,
+        "confidence_pct": 99.8,
+        "explainability_pct": 99.8,
+        "bias": "buy",
+        "evidence_label": "High Evidence"
+      }
+    },
+    {
+      "sector_name": "Life Insurance",
+      "sector_slug": "life-insurance",
+      "days_active": 1,
+      "summary": {
+        "buckets": 1106,
+        "matched_buckets": 1106,
+        "pending_buckets": 0,
+        "trade_qty": 139526,
+        "buy_aggr_qty": 38907,
+        "sell_aggr_qty": 100609,
+        "ambig_qty": 10,
+        "net_aggr_qty": -61702,
+        "gap_count": 0,
+        "wipe_count": 0,
+        "upper_lock_count": 0,
+        "lower_lock_count": 0,
+        "trade_amt_rs": 74765430.0,
+        "buy_aggr_amt_rs": 19571616.0,
+        "sell_aggr_amt_rs": 55181876.0,
+        "ambig_amt_rs": 11938.0,
+        "net_aggr_amt_rs": -35610260.0,
+        "confidence_pct": 99.91,
+        "explainability_pct": 99.91,
+        "bias": "sell",
+        "evidence_label": "High Evidence"
+      }
+    },
+    {
+      "sector_name": "Non Life Insurance",
+      "sector_slug": "non-life-insurance",
+      "days_active": 1,
+      "summary": {
+        "buckets": 337,
+        "matched_buckets": 337,
+        "pending_buckets": 0,
+        "trade_qty": 54797,
+        "buy_aggr_qty": 22769,
+        "sell_aggr_qty": 31286,
+        "ambig_qty": 742,
+        "net_aggr_qty": -8517,
+        "gap_count": 0,
+        "wipe_count": 1,
+        "upper_lock_count": 0,
+        "lower_lock_count": 0,
+        "trade_amt_rs": 37405524.1,
+        "buy_aggr_amt_rs": 13246200.0,
+        "sell_aggr_amt_rs": 23646147.53,
+        "ambig_amt_rs": 513176.57,
+        "net_aggr_amt_rs": -10399947.53,
+        "confidence_pct": 99.35,
+        "explainability_pct": 99.35,
+        "bias": "sell",
+        "evidence_label": "High Evidence"
+      }
+    },
+    {
+      "sector_name": "Tradings",
+      "sector_slug": "tradings",
+      "days_active": 1,
+      "summary": {
+        "buckets": 37,
+        "matched_buckets": 37,
+        "pending_buckets": 0,
+        "trade_qty": 2608,
+        "buy_aggr_qty": 2352,
+        "sell_aggr_qty": 256,
+        "ambig_qty": 0,
+        "net_aggr_qty": 2096,
+        "gap_count": 0,
+        "wipe_count": 1,
+        "upper_lock_count": 0,
+        "lower_lock_count": 0,
+        "trade_amt_rs": 15100068.0,
+        "buy_aggr_amt_rs": 13740549.0,
+        "sell_aggr_amt_rs": 1359519.0,
+        "ambig_amt_rs": 0.0,
+        "net_aggr_amt_rs": 12381030.0,
+        "confidence_pct": 100.0,
+        "explainability_pct": 100.0,
+        "bias": "buy",
+        "evidence_label": "High Evidence"
+      }
+    }
+  ],
+  "repeated_stocks": [
+    {
+      "symbol": "RIDI",
+      "appearances": 1
+    },
+    {
+      "symbol": "SAHAS",
+      "appearances": 1
+    },
+    {
+      "symbol": "SOHL",
+      "appearances": 1
+    },
+    {
+      "symbol": "NHPC",
+      "appearances": 1
+    },
+    {
+      "symbol": "AKJCL",
+      "appearances": 1
+    },
+    {
+      "symbol": "NGPL",
+      "appearances": 1
+    },
+    {
+      "symbol": "HDHPC",
+      "appearances": 1
+    },
+    {
+      "symbol": "API",
+      "appearances": 1
+    },
+    {
+      "symbol": "MEN",
+      "appearances": 1
+    },
+    {
+      "symbol": "RLEL",
+      "appearances": 1
+    },
+    {
+      "symbol": "SHEL",
+      "appearances": 1
+    },
+    {
+      "symbol": "UPPER",
+      "appearances": 1
+    },
+    {
+      "symbol": "SIPD",
+      "appearances": 1
+    },
+    {
+      "symbol": "AKPL",
+      "appearances": 1
+    },
+    {
+      "symbol": "SSHL",
+      "appearances": 1
+    },
+    {
+      "symbol": "SKHL",
+      "appearances": 1
+    },
+    {
+      "symbol": "TAMOR",
+      "appearances": 1
+    },
+    {
+      "symbol": "BHL",
+      "appearances": 1
+    },
+    {
+      "symbol": "SHPC",
+      "appearances": 1
+    },
+    {
+      "symbol": "BPCL",
+      "appearances": 1
+    },
+    {
+      "symbol": "HURJA",
+      "appearances": 1
+    },
+    {
+      "symbol": "SKHEL",
+      "appearances": 1
+    },
+    {
+      "symbol": "BJHL",
+      "appearances": 1
+    },
+    {
+      "symbol": "LEC",
+      "appearances": 1
+    },
+    {
+      "symbol": "UNHPL",
+      "appearances": 1
+    }
+  ],
+  "videos": [],
+  "article": {
+    "status": "draft",
+    "title": "NEPSE Weekly Order-Flow Summary — 2026-W20",
+    "opening": "Weekly article is approved from the admin writer before public publishing."
+  }
+}
