@@ -28,3 +28,7 @@ Archive.zip
 
 # OS files
 .DS_Store
+
+# Publisher mode: upload built Cloudflare static site
+!frontend/dist/
+!frontend/dist/**
