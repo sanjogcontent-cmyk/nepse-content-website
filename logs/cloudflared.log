@@ -21,3 +21,5 @@
 2026-05-13T15:47:59Z INF Registered tunnel connection connIndex=0 connection=dddbabb6-104f-4377-8aa6-aaa9a6efebcd event=0 ip=198.41.200.43 location=bom10 protocol=quic
 2026/05/13 21:56:23 Unsolicited response received on idle HTTP channel starting with "HTTP/1.1 400 Bad Request\r\n\r\n"; err=<nil>
 2026/05/13 21:56:23 Unsolicited response received on idle HTTP channel starting with "HTTP/1.1 400 Bad Request\r\n\r\n"; err=<nil>
+2026/05/13 22:11:53 Unsolicited response received on idle HTTP channel starting with "HTTP/1.1 400 Bad Request\r\n\r\n"; err=<nil>
+2026/05/13 22:11:53 Unsolicited response received on idle HTTP channel starting with "HTTP/1.1 400 Bad Request\r\n\r\n"; err=<nil>

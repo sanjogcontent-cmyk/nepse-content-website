@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# build output
+dist/
+frontend/dist/
+
+# env / secrets
+.env
+*.env
+truth.config.env
+.env.local
+.env.production
+
+# logs
+logs/
+*.log
+npm-debug.log*
+
+# raw data / heavy files
+*.sqlite
+*.sqlite3
+*.db
+*.zip
+Archive.zip
+
+# OS files
+.DS_Store
