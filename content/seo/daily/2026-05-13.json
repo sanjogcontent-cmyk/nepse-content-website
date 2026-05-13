@@ -1,0 +1,98 @@
+{
+  "title": "NEPSE Daily Order-Flow Summary — 2026-05-13",
+  "description": "Sell-aggressive pressure shaped the market, with Hydro Power carrying the largest order-flow footprint and SYPNL selected for video proof.",
+  "canonical_path": "/daily/2026-05-13",
+  "canonical_url": "/daily/2026-05-13",
+  "open_graph": {
+    "type": "article",
+    "site_name": "Nepse_Master_Trade & Analysis",
+    "title": "NEPSE Daily Order-Flow Summary — 2026-05-13",
+    "description": "Sell-aggressive pressure shaped the market, with Hydro Power carrying the largest order-flow footprint and SYPNL selected for video proof.",
+    "url": "/daily/2026-05-13"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "NEPSE Daily Order-Flow Summary — 2026-05-13",
+    "description": "Sell-aggressive pressure shaped the market, with Hydro Power carrying the largest order-flow footprint and SYPNL selected for video proof."
+  },
+  "keywords": [
+    "NEPSE",
+    "Nepal Stock Exchange",
+    "order flow",
+    "aggressor flow",
+    "market summary",
+    "SYPNL",
+    "Manufacturing And Processing",
+    "bucket analysis",
+    "sector summary"
+  ],
+  "thumbnail_text_options": [],
+  "structured_data": {
+    "article": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "NEPSE Daily Order-Flow Summary — 2026-05-13",
+      "description": "Sell-aggressive pressure shaped the market, with Hydro Power carrying the largest order-flow footprint and SYPNL selected for video proof.",
+      "datePublished": "2026-05-13",
+      "dateModified": "2026-05-13",
+      "author": {
+        "@type": "Organization",
+        "name": "Nepse_Master_Trade & Analysis"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Nepse_Master_Trade & Analysis"
+      },
+      "mainEntityOfPage": "/daily/2026-05-13",
+      "keywords": [
+        "NEPSE",
+        "Nepal Stock Exchange",
+        "order flow",
+        "aggressor flow",
+        "market summary",
+        "SYPNL",
+        "Manufacturing And Processing",
+        "bucket analysis",
+        "sector summary"
+      ]
+    },
+    "video": {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": "SYPNL Order Flow Analysis | NEPSE Daily Market Summary",
+      "description": "Sell-aggressive pressure shaped the market, with Hydro Power carrying the largest order-flow footprint and SYPNL selected for video proof.",
+      "thumbnailUrl": [],
+      "uploadDate": "2026-05-13",
+      "contentUrl": "",
+      "embedUrl": "",
+      "keywords": [
+        "NEPSE",
+        "Nepal Stock Exchange",
+        "order flow",
+        "aggressor flow",
+        "market summary",
+        "SYPNL",
+        "Manufacturing And Processing",
+        "bucket analysis",
+        "sector summary"
+      ]
+    }
+  },
+  "internal_links": {
+    "archive": "/daily",
+    "stock_story": "/stocks/SYPNL",
+    "sector_story": "/sectors/manufacturing-and-processing",
+    "video_archive": "/videos"
+  },
+  "article_outline": {
+    "title": "NEPSE Daily Order-Flow Summary — 2026-05-13",
+    "hero_thesis": "Sell-aggressive pressure shaped the market, with Hydro Power carrying the largest order-flow footprint and SYPNL selected for video proof.",
+    "sections": [
+      "market",
+      "sectors",
+      "featured_stock",
+      "video",
+      "method"
+    ]
+  }
+}

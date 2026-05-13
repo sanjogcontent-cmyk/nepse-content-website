@@ -1,0 +1,166 @@
+{
+  "generated_at": "2026-05-13T15:47:50+00:00",
+  "items": [
+    {
+      "term": "Bucket",
+      "slug": "bucket",
+      "url": "/learn#bucket",
+      "summary": "A reconstructed event around volume increase and PRE/POST depth context.",
+      "keywords": [
+        "bucket",
+        "bucket"
+      ]
+    },
+    {
+      "term": "PRE frame",
+      "slug": "pre-frame",
+      "url": "/learn#pre-frame",
+      "summary": "The visible WS book frame immediately before a volume-up bucket.",
+      "keywords": [
+        "pre frame",
+        "pre-frame"
+      ]
+    },
+    {
+      "term": "POST frame",
+      "slug": "post-frame",
+      "url": "/learn#post-frame",
+      "summary": "The after-trade WS frame observed when volume increases.",
+      "keywords": [
+        "post frame",
+        "post-frame"
+      ]
+    },
+    {
+      "term": "Buy aggressor",
+      "slug": "buy-aggressor",
+      "url": "/learn#buy-aggressor",
+      "summary": "Aggressive flow consuming visible ask-side liquidity.",
+      "keywords": [
+        "buy aggressor",
+        "buy-aggressor"
+      ]
+    },
+    {
+      "term": "Sell aggressor",
+      "slug": "sell-aggressor",
+      "url": "/learn#sell-aggressor",
+      "summary": "Aggressive flow consuming visible bid-side liquidity.",
+      "keywords": [
+        "sell aggressor",
+        "sell-aggressor"
+      ]
+    },
+    {
+      "term": "Agg Qty",
+      "slug": "agg-qty",
+      "url": "/learn#agg-qty",
+      "summary": "Quantity attributed to buy, sell, or ambiguous aggressor flow.",
+      "keywords": [
+        "agg qty",
+        "agg-qty"
+      ]
+    },
+    {
+      "term": "Agg Amt, proxy",
+      "slug": "agg-amt-proxy",
+      "url": "/learn#agg-amt-proxy",
+      "summary": "Bucket turnover proxy-allocated by aggressor quantity share.",
+      "keywords": [
+        "agg amt, proxy",
+        "agg-amt-proxy"
+      ]
+    },
+    {
+      "term": "Net Agg Qty",
+      "slug": "net-agg-qty",
+      "url": "/learn#net-agg-qty",
+      "summary": "Buy aggressor quantity minus sell aggressor quantity.",
+      "keywords": [
+        "net agg qty",
+        "net-agg-qty"
+      ]
+    },
+    {
+      "term": "Net Agg Amt",
+      "slug": "net-agg-amt",
+      "url": "/learn#net-agg-amt",
+      "summary": "Buy aggressor amount minus sell aggressor amount.",
+      "keywords": [
+        "net agg amt",
+        "net-agg-amt"
+      ]
+    },
+    {
+      "term": "Confidence",
+      "slug": "confidence",
+      "url": "/learn#confidence",
+      "summary": "Reliability of aggressor-side classification.",
+      "keywords": [
+        "confidence",
+        "confidence"
+      ]
+    },
+    {
+      "term": "Explainability",
+      "slug": "explainability",
+      "url": "/learn#explainability",
+      "summary": "How much of the bucket is explainable by visible data and rules.",
+      "keywords": [
+        "explainability",
+        "explainability"
+      ]
+    },
+    {
+      "term": "Gap",
+      "slug": "gap",
+      "url": "/learn#gap",
+      "summary": "WS timing gap data-quality warning.",
+      "keywords": [
+        "gap",
+        "gap"
+      ]
+    },
+    {
+      "term": "Wipe",
+      "slug": "wipe",
+      "url": "/learn#wipe",
+      "summary": "Visible level exhaustion in PRE/POST transition.",
+      "keywords": [
+        "wipe",
+        "wipe"
+      ]
+    },
+    {
+      "term": "Lock",
+      "slug": "lock",
+      "url": "/learn#lock",
+      "summary": "Book state warning such as upper/lower locked condition.",
+      "keywords": [
+        "lock",
+        "lock"
+      ]
+    },
+    {
+      "term": "Sector source",
+      "slug": "sector-source",
+      "url": "/learn#sector-source",
+      "summary": "nepse_index_meta.json membership, optional company-meta fallback, then Unmapped.",
+      "keywords": [
+        "sector source",
+        "sector-source"
+      ]
+    },
+    {
+      "term": "Content index",
+      "slug": "content-index",
+      "url": "/learn#content-index",
+      "summary": "Generated JSON registry for daily, weekly, stock, sector, video, article, glossary, search, and sitemap entries.",
+      "keywords": [
+        "content index",
+        "content-index"
+      ]
+    }
+  ],
+  "count": 16
+}
